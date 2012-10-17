@@ -28,7 +28,7 @@ TARGET_BOARD_INFO_FILE ?= device/samsung/crespo4g/board-info.txt
 include device/samsung/crespo/BoardConfigCommon.mk
 
 # kernel
-TARGET_PREBUILT_KERNEL := device/samsung/crespo/kernel
+TARGET_PREBUILT_KERNEL := device/samsung/crespo4g/kernel
 
 #TARGET_RECOVERY_UPDATER_LIBS := librecovery_updater_crespo4g
 TARGET_RELEASETOOLS_EXTENSIONS := device/samsung/crespo4g
